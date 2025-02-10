@@ -11,7 +11,7 @@ Grad-CAM for MFER on RAF-DB dataset
 Fig. 1 Architecture of proposed FAER
 </div>
 
-A PyTorch implementation of the [FAER](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9qy9Jy50ovh3R_ohTNoNi1Tw2-GgzoZ7z8DdzkZ__gFP4MYpB-sBX-4B9uMnQMOMuFXbwyWaNdzjHNFlDiD6hReqGS5Upt4YNMx6bycOGrmzffSsQ4lXtT_3Nr8wZ-iNNs=&uniplatform=NZKPT&flag=copy).
+A PyTorch implementation of the [FAER](https://kns.cnki.net/kcms2/article/abstract?v=YvzTZTPVeK4QEsvamx2JzwrN0SxWKmVGtw72tK-Pa4QOH8aC46rtQjHIole95Flge5oQJo3PVAPydG9-en6reTVrXxHtRwCSr-Hr63ntQsSpxJyCEYDBeQZOuMCSmH_F_TZMpt80oAUuH0dOHU2C21k54Ot_lPTeeD3Fgub6rd2rWd036l-NeZZDS3xNLa-Y&uniplatform=NZKPT&language=CHS).
 
 ## 1、Proposed Contextual Channel Attention mechanism
 
@@ -89,19 +89,24 @@ you may want to cite:
   title={基于上下文通道注意力机制的人脸属性估计与表情识别},
   author={徐杰 and 钟勇 and 王阳 and 张昌福 and 杨观赐},
   journal={计算机应用},
-  pages={0},
-  year={2024},
+  volume={45}
+  issue={01}
+  pages={253-260},
+  year={2025},
   doi={10.11772/j.issn.1001-9081.2024010098}}
+
 
 @ARTICLE{Xu Jie 2024 Facial attribute estimation and expression recognition based on contextual channel attention mechanism,
   title={Facial attribute estimation and expression recognition based on contextual channel attention mechanism},
   author={Xu, Jie and Zhong, Yong and Wang, Yang and Zhang, Changfu and Yang, Guanci},
   journal={Journal of Computer Applications},
-  pages={0},
-  year={2024},
+  volume={45}
+  issue={01}
+  pages={253-260},
+  year={2025},
   doi={10.11772/j.issn.1001-9081.2024010098}}
 ```
 
 ## For more detail imformation, see
 
-[基于上下文通道注意力机制的人脸属性估计与表情识别](./set/基于上下文通道注意力机制的人脸属性估计与表情识别_徐杰.pdf)
+[基于上下文通道注意力机制的人脸属性估计与表情识别](./set/基于上下文通道注意力机制的人脸属性估计与表情识别.pdf)
